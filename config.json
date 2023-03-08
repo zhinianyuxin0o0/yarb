@@ -46,7 +46,7 @@
         "feishu": {
             "enabled": true,
             "secrets": "FEISHU_KEY",
-            "key": "23debc77-64ed-463f-b3ae-4711ec9db78c"
+            "key": "f824a1ad-8451-44db-a79d-adc5742d24ed"
         },
         "wecom": {
             "enabled": false,
